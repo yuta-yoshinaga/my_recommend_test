@@ -1,0 +1,2 @@
+日本語で対話します
+gitコミットメッセージはConventional Commitsに準拠します
